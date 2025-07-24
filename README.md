@@ -1,10 +1,10 @@
-# Personal Portfolio Website
+# Learn HTML & CSS - Portfolio Website
 
 Welcome to my first final project from the **Learn HTML & CSS** course!
 
 This is a **single-page personal portfolio website** built from scratch using only **HTML** and **CSS**, with **Vite** as the development tool.
 
-The goal of this project is to apply everything I’ve learned — including semantic HTML, layout techniques, responsive design, and accessibility — in a real-world context.
+The goal of this project is to apply everything I’ve learned including semantic HTML, layout techniques, responsive design, and accessibility in a real-world context.
 
 ---
 
